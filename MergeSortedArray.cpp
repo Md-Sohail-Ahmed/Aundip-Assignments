@@ -18,3 +18,5 @@ public:
     }
     }
 };
+//Time O(n)
+//SpaceO(1)
