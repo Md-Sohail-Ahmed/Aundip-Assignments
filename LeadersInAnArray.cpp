@@ -23,3 +23,5 @@ vector<int> findLeaders(vector<int> &nums, int n) {
 
     return ans;
 }
+//Time:O(n)
+//Space:O(n)
